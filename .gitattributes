@@ -1,0 +1,2 @@
+# Keep GitHub's language bar about the project's own code, not third-party/template code
+system/** linguist-vendored

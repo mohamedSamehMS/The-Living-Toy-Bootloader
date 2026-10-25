@@ -1,0 +1,18 @@
+# Eclipse CDT build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.bin
+
+# Eclipse workspace metadata (.project and .cproject ARE committed so the project can be imported)
+.metadata/
+.settings/
+.vscode/
+
+# OS junk
+Thumbs.db
+.DS_Store
